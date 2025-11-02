@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('CSE 489 Assignment')),
+      appBar: AppBar(title: Text('Broadcasting Koro')),
       drawer: Drawer(
         child: ListView(
           padding: EdgeInsets.zero,
